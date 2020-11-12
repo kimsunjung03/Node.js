@@ -16,9 +16,11 @@ connection.query(
     }
 )
 
+/*
 connection.query{
     'SELECT * FROM `table` WHERE `name` = ? AND `age` > ?',
     function(err, results){
         console.log(results);
     }
 }
+*/
